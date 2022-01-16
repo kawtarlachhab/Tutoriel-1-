@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\bin\Debug\pictureView.exe.config
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\bin\Debug\pictureView.exe
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\bin\Debug\pictureView.pdb
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.Form1.resources
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.Properties.Resources.resources
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.csproj.GenerateResource.cache
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.exe
+C:\Users\hp\Documents\2ILISI2021\PH2\POOA\pictureView\obj\Debug\pictureView.pdb
